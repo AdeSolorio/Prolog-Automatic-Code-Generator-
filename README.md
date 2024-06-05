@@ -39,3 +39,10 @@ Connection between logic and GUI was made with Python's subprocess.
 - main.py file with the GUI
 - prolog_to_cpp.pl file with the prolog logic for the translation to C++.
 - prolog_to_python.pl file with the prolog logic for the translation to Python.
+
+## Authors
+- Marcela de la Rosa
+- Diego Espejo
+- Pablo Heredia
+- Julieta Arteaga
+- Adela Solorio
